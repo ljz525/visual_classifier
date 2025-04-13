@@ -1,2 +1,2 @@
 # visual_classifier
-an interface to help users do classifications more easily
+an interface to help users do visual classifications more easily
